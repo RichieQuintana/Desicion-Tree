@@ -1,5 +1,9 @@
 **Arbol de Desiciones**
 
+**Dataset:** 
+
+https://www.kaggle.com/datasets/janiobachmann/bank-marketing-dataset
+
 ![image](https://github.com/user-attachments/assets/eba4612d-1339-4a40-bf00-245eb88f842c)
 
 Predicción para [edad=30, saldo=2000, duración=300]: Sí
