@@ -5,8 +5,11 @@
 Predicción para [edad=30, saldo=2000, duración=300]: Sí
 
 Matriz de Confusión:
+
 [1014  489]
+
 [ 461  827]
+
 Precisión del modelo: 0.66
 
 **Interpretacion**
